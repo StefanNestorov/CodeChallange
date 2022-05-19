@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoginScreen.viewDidLoad():LoginScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController?.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthService.init():AuthService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FeedVM.onLogoutPressed():FeedVM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "TwitterClient.shared.isLoggedIn.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginVM.onLoginPressed():LoginVM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "TwitterClient.shared.isLoggedIn.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginScreen.onLoginPressed(_:):LoginScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController?.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TwitterClient.().init():TwitterClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isLoggedIn.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginVM.addSubscribers():LoginVM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userRepository.isLoggedIn">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedVM.init():FeedVM.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
